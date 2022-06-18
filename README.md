@@ -15,4 +15,4 @@ Linux, Unix and macOS:
 * [cpong](https://github.com/cmang/cpong) - A simpe pong-like ASCII game for Unix. My first C program, decades ago. Be kind.
 
 iOS:
-* [iPhone-TTS](https://github.com/cmang/iPhone-TTS) - Port to iOS and Objective-C interface to Festival Lite text-to-speech library
+* [iPhone-TTS](https://github.com/cmang/iPhone-TTS) - Port to iOS and Objective-C interface to Festival Lite text-to-speech library (old, obsolete, historical)
