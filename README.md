@@ -17,4 +17,5 @@ Misc:
 * [stract](https://github.com/cmang/stract) - Extract a range of bytes from a file by specifying the first and last byte offset (in decimal or hex) 
 * [Acronymph](https://github.com/cmang/acronymph) - Acromania acronym game for IRC
 * [cpong](https://github.com/cmang/cpong) - A simpe pong-like ASCII game for Unix. My first C program, decades ago. Be kind.
+* [OpenGL Toys](https://github.com/cmang/opengl-toys) - Some OpenGL demos I made a long time ago (C, GLUT)
 * [iPhone-TTS](https://github.com/cmang/iPhone-TTS) - Port to iOS and Objective-C interface to Festival Lite text-to-speech library (old, obsolete, historical)
