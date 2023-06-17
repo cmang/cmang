@@ -20,4 +20,4 @@ Games and toys:
 Other:
 * [X10 Pyro](https://github.com/cmang/x10-pyro) - Web interface to X10 Firecracker home automation module (Python + Flask) 
 * [stract](https://github.com/cmang/stract) - Extract a range of bytes from binary files by specifying the first and last byte offsets (in decimal or hex) 
-* [iPhone-TTS](https://github.com/cmang/iPhone-TTS) - Port to iOS and Objective-C interface to Festival Lite text-to-speech library. This is/was for adding text-to-speech capability to early iPhone apps. (old, obsolete, historical). 
+* [iPhone-TTS](https://github.com/cmang/iPhone-TTS) - Objective-C wrapper and port of Festival Lite text-to-speech engine to iPhone OS. This was used for adding text-to-speech capability to early iPhone apps. (old, historical) (C, Objective-C, iOS)
