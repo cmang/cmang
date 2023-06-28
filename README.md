@@ -8,7 +8,7 @@ ASCII Art and Textmode Graphics:
 * [Durdraw](https://github.com/cmang/durdraw) - Animated Unicode, ANSI and ASCII Art Editor for Linux/Unix/macOS 
 * [Gifterm](https://github.com/cmang/gifterm) - Image and animated .GIF viewer for text consoles. Linux/Mac/Windows (kind of)
 
-Desktop Linux:
+Desktop Linux/X11:
 * [Emojam](https://github.com/cmang/emojam) - A lightweight Emoji picker/keyboard for X-Windows on Linux and Unix-like systems. (Gtk)
 * [Synaptweak](https://github.com/cmang/synaptweak) - GUI app for changing Synaptics Touchpad Driver settings in Linux (Qt)
 
