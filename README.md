@@ -1,6 +1,6 @@
 ### About Me 🗽
 
-Hi. I'm a software engineer from the USA. I'm into hacking, art, and music. This is where I keep some of my programming projects.
+Hi. I'm a software engineer from the USA. I'm into hacking, art, and music. Some of my main programming languages are Python, C, C++, Bash and JavaScript. This is where I keep some of my programming projects.
 
 ### Projects
 
