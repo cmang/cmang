@@ -22,8 +22,8 @@ Other:
 * [stract](https://github.com/cmang/stract) - Extract a range of bytes from binary files by specifying the first and last byte offsets (in decimal or hex) 
 * [iPhone-TTS](https://github.com/cmang/iPhone-TTS) - Objective-C wrapper and port of Festival Lite text-to-speech engine to iPhone OS. This was used for adding text-to-speech capability to early iPhone apps. (old, historical) (C, Objective-C, iOS)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmang&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmang&theme=tokyonight#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmang&theme=tokyonight&layout=compact&langs_count=8#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmang&theme=tokyonight&layout=compact&langs_count=8#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmang&theme=tokyonight&hide_title=true&hide=contribs&hide_rank=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmang&theme=tokyonight&hide=contribs&hide_title=true&hide_rank=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmang&theme=tokyonight&hide_title=true&hide=contribs&hide_rank=true&include_all_commits=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmang&theme=tokyonight&hide=contribs&hide_title=true&hide_rank=true&include_all_commits=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
