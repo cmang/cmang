@@ -24,6 +24,5 @@ Other:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmang&theme=tokyonight&layout=compact&langs_count=8#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmang&theme=tokyonight&layout=compact&langs_count=8#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmang&theme=tokyonight&hide_title=true&hide=contribs&hide_rank=true&include_all_commits=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmang&theme=tokyonight&hide=contribs&hide_title=true&hide_rank=true&include_all_commits=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
