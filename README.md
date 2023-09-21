@@ -13,7 +13,7 @@ Desktop Linux/X11:
 * [Synaptweak](https://github.com/cmang/synaptweak) - GUI app for changing Synaptics Touchpad Driver settings in Linux (Qt)
 
 Games and toys:
-* [Acronymph](https://github.com/cmang/acronymph) - Acromania acronym game for IRC
+* [Acronymph](https://github.com/cmang/acronymph) - Acromania-like acronym game for IRC
 * [cpong](https://github.com/cmang/cpong) - A simpe pong-like ASCII game for Unix. My first "real" C program, decades ago. Be kind.
 * [OpenGL Toys](https://github.com/cmang/opengl-toys) - Some OpenGL demos I made a long time ago (C, GLUT)
 
