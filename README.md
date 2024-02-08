@@ -18,7 +18,7 @@ Games and toys:
 * [OpenGL Toys](https://github.com/cmang/opengl-toys) - Some OpenGL demos I made a long time ago (C, GLUT)
 
 Other:
-* [X10 Pyro](https://github.com/cmang/x10-pyro) - Web interface to X10 Firecracker (RS-232) home automation module (Python + Flask) 
+* [X10 Pyro](https://github.com/cmang/x10-pyro) - Web interface to X10 Firecracker (RS-232) wireless home automation module (Python + Flask) 
 * [stract](https://github.com/cmang/stract) - Extract a range of bytes from binary files by specifying the first and last byte offsets (in decimal or hex) 
 * [iPhone-TTS](https://github.com/cmang/iPhone-TTS) - Objective-C wrapper and port of Festival Lite text-to-speech engine to iPhone OS. This was used for adding text-to-speech capability to early iPhone apps. (old, historical) (C, Objective-C, iOS)
 
