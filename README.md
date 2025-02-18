@@ -5,7 +5,7 @@ Hi. I'm a software engineer from the USA. I'm into hacking, art, and music. Some
 ### Projects
 
 ASCII Art and Textmode Graphics:
-* [Durdraw](https://github.com/cmang/durdraw) - Animated Unicode, ANSI and ASCII Art Editor for Linux/Unix/macOS 
+* [Durdraw](https://github.com/cmang/durdraw) - Animated Unicode, ANSI and ASCII Art Editor for Linux/Unix/macOS (Terminal)
 * [Gifterm](https://github.com/cmang/gifterm) - Image and animated .GIF viewer for text consoles. Linux/Mac/Windows (kind of)
 
 Desktop Linux/X11:
